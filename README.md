@@ -1,118 +1,91 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Alexey Savusia</h1>
-<h3 align="center">
-Frontend Engineer focused on Complex UI Systems  
-<br/>
-React • Vue • TypeScript • PIXI.js
-</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Building+Complex+UI+Systems;Form+Builders+%26+Logic+Engines;Canvas+%2F+WebGL+Interfaces;Frontend+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&size=28&lines=Frontend+Engineer;Complex+UI+Systems;React+%7C+Vue+%7C+TypeScript;PIXI.js+%7C+WebGL+Interfaces" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 🚀
 
-Frontend Engineer with **3+ years of commercial experience** focused on building **complex, dynamic interfaces** and **low-code systems**.
-
-### Core expertise:
-- 🧩 JSON-driven UI (dynamic forms, schema-based rendering)
-- 🧠 Logic builders (conditions, validation engines, rule systems)
-- 🎨 Canvas / WebGL interfaces (PIXI.js, interactive scenes)
-- ⚙️ Scalable frontend architecture (React / Vue ecosystems)
-
-### Currently:
-- Building **admin platforms & UI constructors**
-- Designing **extensible component systems**
-- Working with **complex business logic (insurance / CRM)**
-
-💼 Open to remote opportunities — **$2000+**
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-3%2B%20years-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Complex%20UI-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-YES-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Salary-$2000%2B-orange?style=for-the-badge"/>
+</p>
 
 ---
 
-# 🔥 Selected Experience
+# 🧠
 
-### 🧩 Form Builder / Admin Platform
-- Dynamic forms generated from JSON schemas
-- Complex validation & conditional logic system
-- Integration with backend APIs (REST)
-- Refactored legacy code → improved maintainability
-
-### 🧠 Logic Builder (Grafana-style UI)
-- Visual condition builder (nested groups, rules)
-- Used for:
-  - validation
-  - show/hide logic
-  - business rules
-- Designed scalable schema for execution engine
-
-### 🎮 Interactive Games (PIXI.js)
-- Slot games & animated scenes
-- Performance optimization for stable FPS
-- Custom rendering logic & animations
-
-### 📊 CRM / Calculation Systems
-- Insurance calculators with dynamic inputs
-- Heavy business logic on frontend
-- React Hook Form + state management
-
----
-
-# 🧠 Tech Stack
-
-### Core
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,vue,html,css" />
 </p>
 
-### State & Data
-- React Hook Form  
-- TanStack Query  
-- REST API integration  
-
-### UI & Styling
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vite,webpack,tailwind,bootstrap" />
 </p>
 
-### Build Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vite,webpack" />
-</p>
-
-### Graphics / Advanced
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=threejs" />
 </p>
 
-- PIXI.js (WebGL rendering)
-
----
-
-# ⚡ What Makes Me Different
-
-- Not just UI — I build **systems**
-- Comfortable with **complex business logic**
-- Experience with **low-code / constructor architectures**
-- Can design UI **and underlying data structures**
-- Strong focus on **code clarity & maintainability**
-
----
-
-# 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexSavusia&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexSavusia&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/PIXI.js-ff66a3?style=for-the-badge&logo=webgl&logoColor=white"/>
 </p>
 
 ---
 
-# 📈 Activity Graph
+# ⚡ SYSTEMS I BUILD
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Form%20Builders-JSON%20Driven-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Logic%20Engines-Conditions%20%26%20Rules-critical?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Canvas-WebGL%20Interfaces-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Admin%20Panels-CRM%20Systems-blue?style=for-the-badge"/>
+</p>
+
+---
+
+# 🎮
+<p align="center">
+  <img src="https://img.shields.io/badge/PIXI.js-Games-ff66a3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Performance-Stable%20FPS-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Rendering-Custom%20Logic-black?style=for-the-badge"/>
+</p>
+
+---
+
+# 🧩
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dynamic%20Forms-Schema%20Driven-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Validation-Advanced-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Logic-Nested%20Conditions-purple?style=for-the-badge"/>
+</p>
+
+---
+
+# 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexSavusia&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexSavusia&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+# 📈
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexSavusia&theme=tokyo-night" />
@@ -120,28 +93,25 @@ Frontend Engineer with **3+ years of commercial experience** focused on building
 
 ---
 
-# 🧩 Focus Areas
+# 🐶
 
-- Dynamic Form Builders (JSON-driven UI)
-- Logic & Rule Engines
-- Canvas / WebGL interfaces
-- Admin Panels / CRM systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Corgi-Vinny-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cat-Laska-white?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mercedes-ML%20W163-black?style=for-the-badge"/>
+</p>
 
----
-
-# 🐶 Fun
-
-- 🚗 Mercedes ML W163 enthusiast  
-- 🐕 Corgi owner (Vinny)  
-- 🐱 Cat person (Laska)  
-- 🎮 Gamer  
 
 ---
 
-# 📫 Contact
+# 📫
 
-<p>
+<p align="center">
   <a href="https://t.me/SavFront">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-Contact%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
 </p>
