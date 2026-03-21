@@ -1,43 +1,102 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Alexey Savusia</h1>
-<h3 align="center">Frontend Developer | React • Vue • TypeScript • PIXI.js</h3>
+<h3 align="center">
+Frontend Engineer focused on Complex UI Systems  
+<br/>
+React • Vue • TypeScript • PIXI.js
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Frontend+Developer;Interactive+UI+Engineer;Game+Dev+with+PIXI.js;Building+Complex+Interfaces" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Building+Complex+UI+Systems;Form+Builders+%26+Logic+Engines;Canvas+%2F+WebGL+Interfaces;Frontend+Architecture" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 💻 3+ years of commercial experience
-- 🎮 Building interactive apps & games (PIXI.js)
-- ⚙️ Complex UI / Form Builders / Diagram Editors
-- 🌍 Remote-first developer
-- 💰 Open to opportunities: **$2000+ / remote**
+Frontend Engineer with **3+ years of commercial experience** focused on building **complex, dynamic interfaces** and **low-code systems**.
+
+### Core expertise:
+- 🧩 JSON-driven UI (dynamic forms, schema-based rendering)
+- 🧠 Logic builders (conditions, validation engines, rule systems)
+- 🎨 Canvas / WebGL interfaces (PIXI.js, interactive scenes)
+- ⚙️ Scalable frontend architecture (React / Vue ecosystems)
+
+### Currently:
+- Building **admin platforms & UI constructors**
+- Designing **extensible component systems**
+- Working with **complex business logic (insurance / CRM)**
+
+💼 Open to remote opportunities — **$2000+**
+
+---
+
+# 🔥 Selected Experience
+
+### 🧩 Form Builder / Admin Platform
+- Dynamic forms generated from JSON schemas
+- Complex validation & conditional logic system
+- Integration with backend APIs (REST)
+- Refactored legacy code → improved maintainability
+
+### 🧠 Logic Builder (Grafana-style UI)
+- Visual condition builder (nested groups, rules)
+- Used for:
+  - validation
+  - show/hide logic
+  - business rules
+- Designed scalable schema for execution engine
+
+### 🎮 Interactive Games (PIXI.js)
+- Slot games & animated scenes
+- Performance optimization for stable FPS
+- Custom rendering logic & animations
+
+### 📊 CRM / Calculation Systems
+- Insurance calculators with dynamic inputs
+- Heavy business logic on frontend
+- React Hook Form + state management
 
 ---
 
 # 🧠 Tech Stack
 
-### 👨‍💻 Core
+### Core
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,php,nodejs,nuxtjs" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,html,css" />
 </p>
 
-### ⚙️ Tools & Libraries
+### State & Data
+- React Hook Form  
+- TanStack Query  
+- REST API integration  
+
+### UI & Styling
 <p>
-  <img src="https://skillicons.dev/icons?i=vite,webpack,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
 </p>
 
-### 🎮 Graphics & Advanced
+### Build Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vite,webpack" />
+</p>
+
+### Graphics / Advanced
 <p>
   <img src="https://skillicons.dev/icons?i=threejs" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/PIXI.js-ff66a3?style=for-the-badge&logo=webgl&logoColor=white"/>
-</p>
+- PIXI.js (WebGL rendering)
+
+---
+
+# ⚡ What Makes Me Different
+
+- Not just UI — I build **systems**
+- Comfortable with **complex business logic**
+- Experience with **low-code / constructor architectures**
+- Can design UI **and underlying data structures**
+- Strong focus on **code clarity & maintainability**
 
 ---
 
@@ -61,28 +120,28 @@
 
 ---
 
-# 🔥 Projects Focus
+# 🧩 Focus Areas
 
-- 🧩 Dynamic Form Builders (JSON-driven UI)
-- 🧠 Logic Builders (conditions / validation engines)
-- 🎨 Canvas & WebGL interfaces
-- 📊 Admin Panels / CRM systems
-
----
-
-# 🐶 Fun Facts
-
-- 🚗 Mercedes ML W163 enthusiast
-- 🐕 Corgi owner (Vinny)
-- 🐱 Cat person (Laska)
-- 🎮 Gamer & UI nerd
+- Dynamic Form Builders (JSON-driven UI)
+- Logic & Rule Engines
+- Canvas / WebGL interfaces
+- Admin Panels / CRM systems
 
 ---
 
-# 📫 Contact Me
+# 🐶 Fun
+
+- 🚗 Mercedes ML W163 enthusiast  
+- 🐕 Corgi owner (Vinny)  
+- 🐱 Cat person (Laska)  
+- 🎮 Gamer  
+
+---
+
+# 📫 Contact
 
 <p>
-  <a href="https://t.me/@SavFront">
+  <a href="https://t.me/SavFront">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
