@@ -63,11 +63,6 @@
 ---
 
 # 🧩
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="500"/>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Dynamic%20Forms-Schema%20Driven-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Validation-Advanced-orange?style=for-the-badge"/>
