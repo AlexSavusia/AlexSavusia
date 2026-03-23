@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alexey Savusia</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&size=28&lines=Frontend+Engineer;Complex+UI+Systems;React+%7C+Vue+%7C+TypeScript;PPIXI.js+%7C+WebGL+Interfaces" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&size=28&lines=Frontend+Engineer;Complex+UI+Systems;React+%7C+Vue+%7C+TypeScript;WebGL+Interfaces+%7C+PIXI.js" />
 </p>
 
 <p align="center">
